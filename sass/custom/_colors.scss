@@ -41,3 +41,24 @@ $sidebar-bg: desaturate(#eceff5, 8);
 //$pre-bg: $base03;
 //$pre-border: darken($base02, 5);
 //$pre-color: $base1;
+
+
+// ////////////////////////////////////////////////////////////////////////////////////
+// changes to the background colors
+// ////////////////////////////////////////////////////////////////////////////////////
+
+html{
+	background: #fff !important;
+}
+
+body{
+	> div {
+		background: #fff !important;
+		> div {
+			background: #fff !important;
+		}
+	}
+}
+$main-bg: #ffffff !default;
+$page-bg: #ffffff !default;
+
