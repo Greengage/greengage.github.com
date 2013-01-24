@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Growing Ideas]]></title>
+  <link href="http://Greengage.github.com/atom.xml" rel="self"/>
+  <link href="http://Greengage.github.com/"/>
+  <updated>2013-01-24T15:57:58+13:00</updated>
+  <id>http://Greengage.github.com/</id>
+  <author>
+    <name><![CDATA[George Sealy]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
