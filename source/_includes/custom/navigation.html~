@@ -1,5 +1,4 @@
 <ul class="main-navigation">
   <li><a href="{{ root_url }}/">Blog</a></li>
   <li><a href="{{ root_url }}/blog/archives">Archives</a></li>
-  <li><a href="http://kate.ict.op.ac.nz/~bazlea1/Shadow_Vault/Greengage/Working/index.html" >Home</a></li>
 </ul>
